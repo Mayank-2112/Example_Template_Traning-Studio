@@ -197,7 +197,7 @@ table{
     border-radius: .3rem;   
 }
 .bok:hover{
-    border-color:orangered;
+    box-shadow: 3px 3px 6px 5px  orangered;
 }
 .block2{
     margin-left: 15rem;
