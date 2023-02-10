@@ -194,8 +194,10 @@ table{
     padding: 2.5rem;
     border: .5rem solid whitesmoke;
     margin-right: 5rem;
-    border-radius: .3rem;
-    
+    border-radius: .3rem;   
+}
+.bok:hover{
+    border-color:orangered;
 }
 .block2{
     margin-left: 15rem;
